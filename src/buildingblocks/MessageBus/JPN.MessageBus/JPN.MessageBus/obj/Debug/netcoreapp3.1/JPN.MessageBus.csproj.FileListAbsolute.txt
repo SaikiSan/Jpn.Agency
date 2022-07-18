@@ -1,0 +1,15 @@
+C:\Users\Lucas Frizzi\Documents\GIT\Estudo\JPN.Agency\src\buildingblocks\MessageBus\JPN.MessageBus\JPN.MessageBus\bin\Debug\netcoreapp3.1\JPN.MessageBus.deps.json
+C:\Users\Lucas Frizzi\Documents\GIT\Estudo\JPN.Agency\src\buildingblocks\MessageBus\JPN.MessageBus\JPN.MessageBus\bin\Debug\netcoreapp3.1\JPN.MessageBus.dll
+C:\Users\Lucas Frizzi\Documents\GIT\Estudo\JPN.Agency\src\buildingblocks\MessageBus\JPN.MessageBus\JPN.MessageBus\bin\Debug\netcoreapp3.1\JPN.MessageBus.pdb
+C:\Users\Lucas Frizzi\Documents\GIT\Estudo\JPN.Agency\src\buildingblocks\MessageBus\JPN.MessageBus\JPN.MessageBus\bin\Debug\netcoreapp3.1\JPN.Core.dll
+C:\Users\Lucas Frizzi\Documents\GIT\Estudo\JPN.Agency\src\buildingblocks\MessageBus\JPN.MessageBus\JPN.MessageBus\bin\Debug\netcoreapp3.1\JPN.Core.pdb
+C:\Users\Lucas Frizzi\Documents\GIT\Estudo\JPN.Agency\src\buildingblocks\MessageBus\JPN.MessageBus\JPN.MessageBus\obj\Debug\netcoreapp3.1\JPN.MessageBus.csproj.AssemblyReference.cache
+C:\Users\Lucas Frizzi\Documents\GIT\Estudo\JPN.Agency\src\buildingblocks\MessageBus\JPN.MessageBus\JPN.MessageBus\obj\Debug\netcoreapp3.1\JPN.MessageBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas Frizzi\Documents\GIT\Estudo\JPN.Agency\src\buildingblocks\MessageBus\JPN.MessageBus\JPN.MessageBus\obj\Debug\netcoreapp3.1\JPN.MessageBus.AssemblyInfoInputs.cache
+C:\Users\Lucas Frizzi\Documents\GIT\Estudo\JPN.Agency\src\buildingblocks\MessageBus\JPN.MessageBus\JPN.MessageBus\obj\Debug\netcoreapp3.1\JPN.MessageBus.AssemblyInfo.cs
+C:\Users\Lucas Frizzi\Documents\GIT\Estudo\JPN.Agency\src\buildingblocks\MessageBus\JPN.MessageBus\JPN.MessageBus\obj\Debug\netcoreapp3.1\JPN.MessageBus.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Frizzi\Documents\GIT\Estudo\JPN.Agency\src\buildingblocks\MessageBus\JPN.MessageBus\JPN.MessageBus\obj\Debug\netcoreapp3.1\JPN.MessageBus.csproj.CopyComplete
+C:\Users\Lucas Frizzi\Documents\GIT\Estudo\JPN.Agency\src\buildingblocks\MessageBus\JPN.MessageBus\JPN.MessageBus\obj\Debug\netcoreapp3.1\JPN.MessageBus.dll
+C:\Users\Lucas Frizzi\Documents\GIT\Estudo\JPN.Agency\src\buildingblocks\MessageBus\JPN.MessageBus\JPN.MessageBus\obj\Debug\netcoreapp3.1\JPN.MessageBus.pdb
+C:\Users\Lucas Frizzi\Documents\GIT\Estudo\JPN.Agency\src\buildingblocks\MessageBus\JPN.MessageBus\JPN.MessageBus\bin\Debug\netcoreapp3.1\JPN.EmailService.dll
+C:\Users\Lucas Frizzi\Documents\GIT\Estudo\JPN.Agency\src\buildingblocks\MessageBus\JPN.MessageBus\JPN.MessageBus\bin\Debug\netcoreapp3.1\JPN.EmailService.pdb

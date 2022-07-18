@@ -1,0 +1,10 @@
+C:\Users\Lucas Frizzi\Documents\GIT\Estudo\JPN.Agency\src\buildingblocks\Email\JPN.EmailManager\bin\Debug\netcoreapp3.1\JPN.EmailService.deps.json
+C:\Users\Lucas Frizzi\Documents\GIT\Estudo\JPN.Agency\src\buildingblocks\Email\JPN.EmailManager\bin\Debug\netcoreapp3.1\JPN.EmailService.dll
+C:\Users\Lucas Frizzi\Documents\GIT\Estudo\JPN.Agency\src\buildingblocks\Email\JPN.EmailManager\bin\Debug\netcoreapp3.1\JPN.EmailService.pdb
+C:\Users\Lucas Frizzi\Documents\GIT\Estudo\JPN.Agency\src\buildingblocks\Email\JPN.EmailManager\obj\Debug\netcoreapp3.1\JPN.EmailService.csproj.AssemblyReference.cache
+C:\Users\Lucas Frizzi\Documents\GIT\Estudo\JPN.Agency\src\buildingblocks\Email\JPN.EmailManager\obj\Debug\netcoreapp3.1\JPN.EmailService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas Frizzi\Documents\GIT\Estudo\JPN.Agency\src\buildingblocks\Email\JPN.EmailManager\obj\Debug\netcoreapp3.1\JPN.EmailService.AssemblyInfoInputs.cache
+C:\Users\Lucas Frizzi\Documents\GIT\Estudo\JPN.Agency\src\buildingblocks\Email\JPN.EmailManager\obj\Debug\netcoreapp3.1\JPN.EmailService.AssemblyInfo.cs
+C:\Users\Lucas Frizzi\Documents\GIT\Estudo\JPN.Agency\src\buildingblocks\Email\JPN.EmailManager\obj\Debug\netcoreapp3.1\JPN.EmailService.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Frizzi\Documents\GIT\Estudo\JPN.Agency\src\buildingblocks\Email\JPN.EmailManager\obj\Debug\netcoreapp3.1\JPN.EmailService.dll
+C:\Users\Lucas Frizzi\Documents\GIT\Estudo\JPN.Agency\src\buildingblocks\Email\JPN.EmailManager\obj\Debug\netcoreapp3.1\JPN.EmailService.pdb

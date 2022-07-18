@@ -1,0 +1,10 @@
+C:\Users\Lucas Frizzi\Documents\GIT\Estudo\JPN.Agency\src\buildingblocks\Services\JPN.WebAPI.Core\bin\Debug\netcoreapp3.1\JPN.WebAPI.Core.deps.json
+C:\Users\Lucas Frizzi\Documents\GIT\Estudo\JPN.Agency\src\buildingblocks\Services\JPN.WebAPI.Core\bin\Debug\netcoreapp3.1\JPN.WebAPI.Core.dll
+C:\Users\Lucas Frizzi\Documents\GIT\Estudo\JPN.Agency\src\buildingblocks\Services\JPN.WebAPI.Core\bin\Debug\netcoreapp3.1\JPN.WebAPI.Core.pdb
+C:\Users\Lucas Frizzi\Documents\GIT\Estudo\JPN.Agency\src\buildingblocks\Services\JPN.WebAPI.Core\obj\Debug\netcoreapp3.1\JPN.WebAPI.Core.csproj.AssemblyReference.cache
+C:\Users\Lucas Frizzi\Documents\GIT\Estudo\JPN.Agency\src\buildingblocks\Services\JPN.WebAPI.Core\obj\Debug\netcoreapp3.1\JPN.WebAPI.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas Frizzi\Documents\GIT\Estudo\JPN.Agency\src\buildingblocks\Services\JPN.WebAPI.Core\obj\Debug\netcoreapp3.1\JPN.WebAPI.Core.AssemblyInfoInputs.cache
+C:\Users\Lucas Frizzi\Documents\GIT\Estudo\JPN.Agency\src\buildingblocks\Services\JPN.WebAPI.Core\obj\Debug\netcoreapp3.1\JPN.WebAPI.Core.AssemblyInfo.cs
+C:\Users\Lucas Frizzi\Documents\GIT\Estudo\JPN.Agency\src\buildingblocks\Services\JPN.WebAPI.Core\obj\Debug\netcoreapp3.1\JPN.WebAPI.Core.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Frizzi\Documents\GIT\Estudo\JPN.Agency\src\buildingblocks\Services\JPN.WebAPI.Core\obj\Debug\netcoreapp3.1\JPN.WebAPI.Core.dll
+C:\Users\Lucas Frizzi\Documents\GIT\Estudo\JPN.Agency\src\buildingblocks\Services\JPN.WebAPI.Core\obj\Debug\netcoreapp3.1\JPN.WebAPI.Core.pdb
